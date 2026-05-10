@@ -74,10 +74,8 @@ AI-powered rural ecosystem supporting farmers & villages through digital service
 🌐 Live Demo:  
 https://grammy-uuu7.onrender.com
 
-<br>
-
 <p align="center">
-<img src="PASTE_GRAMAI_IMAGE_LINK_HERE" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mununial/Mununial/main/images/gramai.png" width="100%"/>
 </p>
 
 ---
@@ -97,10 +95,8 @@ Interactive AI-powered educational platform with futuristic learning experiences
 🌐 Live Demo:  
 https://qrio-g413.onrender.com/
 
-<br>
-
 <p align="center">
-<img src="PASTE_QRIO_IMAGE_LINK_HERE" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mununial/Mununial/main/images/qrio.png" width="100%"/>
 </p>
 
 ---
@@ -119,10 +115,8 @@ Modern healthcare booking & clinical assistance platform.
 🌐 Live Demo:  
 https://medgo-1.onrender.com/
 
-<br>
-
 <p align="center">
-<img src="PASTE_MEDGO_IMAGE_LINK_HERE" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mununial/Mununial/main/images/medgo.png" width="100%"/>
 </p>
 
 ---
@@ -141,10 +135,8 @@ Traditional artisan marketplace empowering local creators & handmade businesses.
 🌐 Live Demo:  
 https://craft-473e.onrender.com
 
-<br>
-
 <p align="center">
-<img src="PASTE_CRAFTMINT_IMAGE_LINK_HERE" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mununial/Mununial/main/images/craftmint.png" width="100%"/>
 </p>
 
 ---
@@ -164,6 +156,8 @@ https://craft-473e.onrender.com
 # 💼 Experience
 
 ## SEO Intern — SEOCZAR, Bhubaneswar
+<img width="1918" height="911" alt="gramai" src="https://github.com/user-attachments/assets/d647fc26-da8b-4bda-8b4b-4ea1fd9572cd" />
+<img width="1918" height="902" alt="craftmint" src="https://github.com/user-attachments/assets/300783d3-b8a1-44f5-b0cd-b68e09f4d452" />
 
 - Technical SEO
 - Keyword Research
@@ -186,7 +180,7 @@ https://craft-473e.onrender.com
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mununial&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Mununial&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -213,15 +207,9 @@ https://craft-473e.onrender.com
 
 </p>
 
----
+---<img width="1917" height="868" alt="qrio" src="https://github.com/user-attachments/assets/802639cc-bd78-47e1-b939-e13869ef036f" />
+<img width="1883" height="905" alt="medgo" src="https://github.com/user-attachments/assets/eaa40a56-2f43-4a5e-b9ee-97f01b2202fd" />
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mununial/Mununial/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 # ⚡ Fun Fact
 
