@@ -2,12 +2,7 @@
 
 <h3 align="center">
 🚀 Full Stack Developer (MERN) | Java Developer | AI Builder
-</h3><img width="1080" height="2400" alt="1000674761" src="https://github.com/user-attachments/assets/b3fe628a-a336-4561-8173-2dd46ca1a208" />
-<img width="1080" height="2400" alt="1000674760" src="https://github.com/user-attachments/assets/e1e285e7-cb56-49c1-a754-b1f942f12af7" />
-<img width="1080" height="2400" alt="1000674756" src="https://github.com/user-attachments/assets/301cbf14-0745-4904-bb50-96bbff6eb8fe" />
-<img width="1080" height="2400" alt="1000674759" src="https://github.com/user-attachments/assets/058d613e-4f60-4a69-8519-ca9ace8fc0e4" />
-<img width="1080" height="2400" alt="1000674758" src="https://github.com/user-attachments/assets/3fb218d4-cc07-4007-b9a8-85d5c8edbbd7" />
-
+</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Java+%26+DSA+Learner;AI+Platform+Builder;Hackathon+Winner;Startup+Enthusiast;Building+Real+World+Projects" />
@@ -121,11 +116,45 @@ https://craft-473e.onrender.com
 
 ---
 
-## 🔐 GATEKEEPER-PROTOCOL
+# 📸 Project Previews
 
-Next-generation secure P2P communication & private file transfer platform.
+<table>
+<tr>
+<td width="50%">
 
-⚡ Tech: JavaScript
+<h3 align="center">🌾 GramAI</h3>
+
+<img src="https://github.com/user-attachments/assets/gramai-dashboard-preview" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🏥 MedGo</h3>
+
+<img src="https://github.com/user-attachments/assets/medgo-preview" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">🤖 QRIO</h3>
+
+<img src="https://github.com/user-attachments/assets/qrio-preview" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🎨 CraftMint</h3>
+
+<img src="https://github.com/user-attachments/assets/craftmint-preview" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -208,6 +237,10 @@ Next-generation secure P2P communication & private file transfer platform.
 ```java
 while(!success){
     learn();
-    build();
+    buil<img width="1080" height="695" alt="1000674775" src="https://github.com/user-attachments/assets/4e0e2816-e169-451e-9124-39d9a37dd399" />
+<img width="1080" height="943" alt="1000674769" src="https://github.com/user-attachments/assets/1addd043-a3c9-423f-825d-bb1f9088410c" />
+<img width="1080" height="1075" alt="1000674773" src="https://github.com/user-attachments/assets/610f6c76-c659-4ac9-a478-746366239b99" />
+<img width="1080" height="974" alt="1000674771" src="https://github.com/user-attachments/assets/ed945140-a0b4-40f5-a933-5f7ca3da378c" />
+d();
     improve();
 }
