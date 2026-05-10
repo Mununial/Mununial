@@ -2,7 +2,12 @@
 
 <h3 align="center">
 🚀 Full Stack Developer (MERN) | Java Developer | AI Builder
-</h3>
+</h3><img width="1080" height="2400" alt="1000674761" src="https://github.com/user-attachments/assets/b3fe628a-a336-4561-8173-2dd46ca1a208" />
+<img width="1080" height="2400" alt="1000674760" src="https://github.com/user-attachments/assets/e1e285e7-cb56-49c1-a754-b1f942f12af7" />
+<img width="1080" height="2400" alt="1000674756" src="https://github.com/user-attachments/assets/301cbf14-0745-4904-bb50-96bbff6eb8fe" />
+<img width="1080" height="2400" alt="1000674759" src="https://github.com/user-attachments/assets/058d613e-4f60-4a69-8519-ca9ace8fc0e4" />
+<img width="1080" height="2400" alt="1000674758" src="https://github.com/user-attachments/assets/3fb218d4-cc07-4007-b9a8-85d5c8edbbd7" />
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Java+%26+DSA+Learner;AI+Platform+Builder;Hackathon+Winner;Startup+Enthusiast;Building+Real+World+Projects" />
