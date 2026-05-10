@@ -212,7 +212,7 @@ https://craft-473e.onrender.com
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mununial/Mununial/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mununial&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
