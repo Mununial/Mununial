@@ -220,12 +220,9 @@ https://craft-473e.onrender.com
 # ⚡ Fun Fact
 
 ```javascript
-while(!success){<img width="1917" height="868" alt="qrio" src="https://github.com/user-attachments/assets/36ccb878-f34a-4b44-a5f8-aff545e1f445" />
-<img width="1883" height="905" alt="medgo" src="https://github.com/user-attachments/assets/2983f229-171b-4600-8c03-f485eed7cbb6" />
-<img width="1918" height="911" alt="gramai" src="https://github.com/user-attachments/assets/74fd87b7-571b-4a23-8d9b-cfbc64aecb83" />
-<img width="1918" height="902" alt="craftmint" src="https://github.com/user-attachments/assets/94c047e3-00b3-4c5c-a25d-2b4f783ef3ab" />
-
+while(!success){
    learn();
    build();
    improve();
 }
+```
