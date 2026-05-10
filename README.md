@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Java+%26+DSA+Learner;AI+Platform+Builder;Hackathon+Winner;Startup+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;AI+Builder;Hackathon+Winner;Building+Real+World+Projects;Open+Source+Enthusiast" />
 </p>
 
 ---
@@ -16,34 +16,39 @@
 💻 Passionate Full Stack Developer focused on MERN, Java & AI  
 🚀 Building startup-level platforms & production-ready web apps  
 🏆 Multiple Hackathon Winner & Finalist  
-🌱 Exploring scalable systems, AI integrations & modern UI/UX  
-📍 Odisha, India
+🧠 Exploring scalable systems, AI integrations & modern UI/UX  
+📍 Odisha, India  
 
 ---
 
 # 🚀 Tech Stack
 
 ## 💻 Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,c,js,ts" />
 </p>
 
 ## 🎨 Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-## ⚙ Backend
+## ⚙️ Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄 Database
+## 🗄️ Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-## 🛠 Tools
+## 🛠️ Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,render,firebase" />
 </p>
@@ -52,11 +57,12 @@
 
 # 🌟 Featured Projects
 
-## 🌾 GramAI — Smart Village AI Platform
+# 🌾 GramAI — Smart Village AI Platform
 
 AI-powered rural ecosystem supporting farmers & villages through digital services.
 
 ### ✨ Features
+
 - 🚜 Rent-a-Tractor
 - 📦 Agri Logistics
 - 🏛 Govt Schemes
@@ -68,13 +74,20 @@ AI-powered rural ecosystem supporting farmers & villages through digital service
 🌐 Live Demo:  
 https://grammy-uuu7.onrender.com
 
+<br>
+
+<p align="center">
+<img src="PASTE_GRAMAI_IMAGE_LINK_HERE" width="100%"/>
+</p>
+
 ---
 
-## 🤖 QRIO — Gamified AI Learning Platform
+# 🤖 QRIO — Gamified AI Learning Platform
 
 Interactive AI-powered educational platform with futuristic learning experiences.
 
 ### ✨ Features
+
 - 🎮 Gamified Missions
 - 🎙 Voice Interaction
 - ✋ Gesture Learning
@@ -84,13 +97,20 @@ Interactive AI-powered educational platform with futuristic learning experiences
 🌐 Live Demo:  
 https://qrio-g413.onrender.com/
 
+<br>
+
+<p align="center">
+<img src="PASTE_QRIO_IMAGE_LINK_HERE" width="100%"/>
+</p>
+
 ---
 
-## 🏥 MedGo — Healthcare at Your Doorstep
+# 🏥 MedGo — Healthcare at Your Doorstep
 
 Modern healthcare booking & clinical assistance platform.
 
 ### ✨ Features
+
 - 🩺 Book Doctors
 - 🚑 Clinical Response
 - 🏠 Home Healthcare
@@ -99,13 +119,20 @@ Modern healthcare booking & clinical assistance platform.
 🌐 Live Demo:  
 https://medgo-1.onrender.com/
 
+<br>
+
+<p align="center">
+<img src="PASTE_MEDGO_IMAGE_LINK_HERE" width="100%"/>
+</p>
+
 ---
 
-## 🎨 CraftMint — Odisha Skillcraft Marketplace
+# 🎨 CraftMint — Odisha Skillcraft Marketplace
 
 Traditional artisan marketplace empowering local creators & handmade businesses.
 
 ### ✨ Features
+
 - 🛍 Product Marketplace
 - 👨‍🎨 Hire Artisan
 - 🖼 Art Categories
@@ -114,47 +141,11 @@ Traditional artisan marketplace empowering local creators & handmade businesses.
 🌐 Live Demo:  
 https://craft-473e.onrender.com
 
----
+<br>
 
-# 📸 Project Previews
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🌾 GramAI</h3>
-
-<img src="https://github.com/user-attachments/assets/gramai-dashboard-preview" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🏥 MedGo</h3>
-
-<img src="https://github.com/user-attachments/assets/medgo-preview" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">🤖 QRIO</h3>
-
-<img src="https://github.com/user-attachments/assets/qrio-preview" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🎨 CraftMint</h3>
-
-<img src="https://github.com/user-attachments/assets/craftmint-preview" width="100%"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="PASTE_CRAFTMINT_IMAGE_LINK_HERE" width="100%"/>
+</p>
 
 ---
 
@@ -166,7 +157,7 @@ https://craft-473e.onrender.com
 🏅 Finalist — NIT Rourkela Hackathon  
 🏅 Finalist — GDG Bhubaneswar HackFest  
 🏅 Top 3 — IIIT Bhubaneswar Hackathon  
-🔥 Participated in 20+ Hackathons
+🔥 Participated in 20+ Hackathons  
 
 ---
 
@@ -206,7 +197,7 @@ https://craft-473e.onrender.com
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="mailto:mununial637@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
@@ -227,7 +218,7 @@ https://craft-473e.onrender.com
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mununial/Mununial/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mununial/Mununial/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -237,10 +228,6 @@ https://craft-473e.onrender.com
 ```java
 while(!success){
     learn();
-    buil<img width="1080" height="695" alt="1000674775" src="https://github.com/user-attachments/assets/4e0e2816-e169-451e-9124-39d9a37dd399" />
-<img width="1080" height="943" alt="1000674769" src="https://github.com/user-attachments/assets/1addd043-a3c9-423f-825d-bb1f9088410c" />
-<img width="1080" height="1075" alt="1000674773" src="https://github.com/user-attachments/assets/610f6c76-c659-4ac9-a478-746366239b99" />
-<img width="1080" height="974" alt="1000674771" src="https://github.com/user-attachments/assets/ed945140-a0b4-40f5-a933-5f7ca3da378c" />
-d();
+    build();
     improve();
 }
