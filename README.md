@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Java+%26+DSA+Learner;Hackathon+Winner;AI+Platform+Builder;Startup+Enthusiast;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Java+%26+DSA+Learner;AI+Platform+Builder;Hackathon+Winner;Startup+Enthusiast;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -14,9 +14,9 @@
 
 🎓 B.Tech CSE Student at Bhubaneswar Engineering College (BPUT)  
 💻 Passionate Full Stack Developer focused on MERN, Java & AI  
-🚀 Building AI platforms, startup products & production-ready websites  
-🏆 Hackathon Winner with multiple achievements  
-🌱 Currently learning scalable backend systems & advanced development  
+🚀 Building startup-level platforms & production-ready web apps  
+🏆 Multiple Hackathon Winner & Finalist  
+🌱 Exploring scalable systems, AI integrations & modern UI/UX  
 📍 Odisha, India
 
 ---
@@ -25,7 +25,7 @@
 
 ## 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,js" />
+<img src="https://skillicons.dev/icons?i=java,c,js,ts" />
 </p>
 
 ## 🎨 Frontend
@@ -50,112 +50,77 @@
 
 ---
 
-# 📂 Featured Projects
+# 🌟 Featured Projects
+
+## 🌾 GramAI — Smart Village AI Platform
+
+AI-powered rural ecosystem supporting farmers & villages through digital services.
+
+### ✨ Features
+- 🚜 Rent-a-Tractor
+- 📦 Agri Logistics
+- 🏛 Govt Schemes
+- 🌱 Farming Solutions
+- 📊 Money Manager
+- 🤖 AI Crop Scan
+- 🛒 Agri Market
+
+🌐 Live Demo:  
+https://grammy-uuu7.onrender.com
+
+---
+
+## 🤖 QRIO — Gamified AI Learning Platform
+
+Interactive AI-powered educational platform with futuristic learning experiences.
+
+### ✨ Features
+- 🎮 Gamified Missions
+- 🎙 Voice Interaction
+- ✋ Gesture Learning
+- 🧠 AI Learning Modules
+- 🏆 Rewards & Leaderboards
+
+🌐 Live Demo:  
+https://qrio-g413.onrender.com/
+
+---
+
+## 🏥 MedGo — Healthcare at Your Doorstep
+
+Modern healthcare booking & clinical assistance platform.
+
+### ✨ Features
+- 🩺 Book Doctors
+- 🚑 Clinical Response
+- 🏠 Home Healthcare
+- 📅 Appointment System
+
+🌐 Live Demo:  
+https://medgo-1.onrender.com/
+
+---
+
+## 🎨 CraftMint — Odisha Skillcraft Marketplace
+
+Traditional artisan marketplace empowering local creators & handmade businesses.
+
+### ✨ Features
+- 🛍 Product Marketplace
+- 👨‍🎨 Hire Artisan
+- 🖼 Art Categories
+- 📱 Responsive UI
+
+🌐 Live Demo:  
+https://craft-473e.onrender.com
+
+---
 
 ## 🔐 GATEKEEPER-PROTOCOL
-Next-generation secure P2P communication & file transfer system without intermediaries.
+
+Next-generation secure P2P communication & private file transfer platform.
 
 ⚡ Tech: JavaScript
-
----
-
-## 🌾 GramAI – Smart Village AI Platform
-AI-powered rural digital ecosystem supporting farmers & villages.
-
-### Features:
-- Rent-a-Tractor
-- Govt Schemes
-- AI Crop Scan
-- Govt Buddy Assistant
-- Agri Market
-- Money Manager
-
-🌐 https://gram-ni7g.onrender.com
-
----
-
-## 🤖 QRIO – Gamified AI Learning Platform
-AI-powered learning platform with:
-- Missions
-- Rewards
-- Quizzes
-- Voice Interaction
-- Gesture Learning
-
-🌐 https://qrio-g413.onrender.com
-
----
-
-## 🏫 Institutional Website Development
-Developed live websites for:
-- AIMS BBSR
-- Meridian College
-- Educational Platforms
-
-⚡ Tech:
-HTML, CSS, JavaScript, Node.js, Firebase
-
----
-
-## 📡 gram-service
-Village digital service management platform.
-
----
-
-## 💳 CardQrio
-Modern UI card-based frontend project.
-
----
-
-## 🛒 product
-Product showcase UI project using CSS.
-
----
-
-## 🎮 games
-Browser-based gaming project.
-
----
-
-## 🌱 paradise-nursery
-Plant & nursery themed website.
-
----
-
-## ⚡ craft
-Creative JavaScript web project.
-
----
-
-## 🚗 ev
-TypeScript-based EV related project.
-
----
-
-## 🏥 medgo
-Healthcare related TypeScript project.
-
----
-
-## 🧮 simple-interest-calculator
-Finance calculator project.
-
----
-
-## 📚 expressBookReviews
-Node.js Express backend review project.
-
----
-
-# 💼 Experience
-
-## SEO Intern — SEOCZAR, Bhubaneswar
-📅 2026 – Present
-
-- Technical SEO
-- Keyword Research
-- Website Ranking
-- Digital Growth
 
 ---
 
@@ -168,6 +133,17 @@ Node.js Express backend review project.
 🏅 Finalist — GDG Bhubaneswar HackFest  
 🏅 Top 3 — IIIT Bhubaneswar Hackathon  
 🔥 Participated in 20+ Hackathons
+
+---
+
+# 💼 Experience
+
+## SEO Intern — SEOCZAR, Bhubaneswar
+
+- Technical SEO
+- Keyword Research
+- Website Optimization
+- Digital Growth
 
 ---
 
@@ -204,6 +180,10 @@ Node.js Express backend review project.
 
 <a href="https://github.com/Mununial">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.instagram.com/munu_nial">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </p>
